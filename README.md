@@ -1,6 +1,6 @@
 JavaBuzz
 ========
-Not a Makers Academy student anymore, but there's no limit to the projects, right?
+Not a Makers Academy student anymore, but there's no limit to the projects, right? I keep studying with the students.
 
 ###What is it?
 Javascript version of FizzBuzz
